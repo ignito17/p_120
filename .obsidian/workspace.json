@@ -11,12 +11,14 @@
             "id": "0cca269cf79b363e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "resources/books/Mathematic for ML.pdf"
+                "file": "daily_actions.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-file-text",
-              "title": "Mathematic for ML"
+              "icon": "lucide-file",
+              "title": "daily_actions"
             }
           }
         ]
@@ -165,6 +167,7 @@
   },
   "active": "0cca269cf79b363e",
   "lastOpenFiles": [
+    "resources/books/Mathematic for ML.pdf",
     "resources/books/luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf",
     "Untitled.canvas",
     "codespace/fluent_python/ch_1_Data_Model.py",
